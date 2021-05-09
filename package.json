@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-film-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duynguyen1998vn/NodeJS-Film.git"
+  },
+  "author": "tduy98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duynguyen1998vn/NodeJS-Film/issues"
+  },
+  "homepage": "https://github.com/duynguyen1998vn/NodeJS-Film#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7",
+    "validator": "^13.6.0"
+  }
+}
